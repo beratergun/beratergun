@@ -32,12 +32,12 @@ I operate at the bleeding edge of Artificial Intelligence, Cyber-Defense, and Hi
 
 🛠️ THE ARSENAL [Tech Stack & Infrastructure]
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-Advanced-000000%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3DED8B00%26color%3D0D1117%26edge_color%3D00FF00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart_%252F_Flutter-Proficient-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflutter%26logoColor%3D02569B%26color%3D0D1117%26edge_color%3D00FF00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-Foundational-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3D3776AB%26color%3D0D1117%26edge_color%3D00FF00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-Intermediate-000000%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3DA8B9CC%26color%3D0D1117%26edge_color%3D00FF00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Databases-Intermediate-000000%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3D4479A1%26color%3D0D1117%26edge_color%3D00FF00" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VHDL-Hardware_Logic-000000%3Fstyle%3Dfor-the-badge%26logo%3Damd%26logoColor%3Dwhite%26color%3D0D1117%26edge_color%3D00FF00" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-Advanced-000000%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3DED8B00%26color%3D0D1117%26edge_color%3D00FF00" alt="Java" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart_%252F_Flutter-Proficient-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflutter%26logoColor%3D02569B%26color%3D0D1117%26edge_color%3D00FF00" alt="Flutter" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-Foundational-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3D3776AB%26color%3D0D1117%26edge_color%3D00FF00" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-Intermediate-000000%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3DA8B9CC%26color%3D0D1117%26edge_color%3D00FF00" alt="C" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Databases-Intermediate-000000%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3D4479A1%26color%3D0D1117%26edge_color%3D00FF00" alt="SQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VHDL-Hardware_Logic-000000%3Fstyle%3Dfor-the-badge%26logo%3Damd%26logoColor%3Dwhite%26color%3D0D1117%26edge_color%3D00FF00" alt="VHDL" />
 </p>
 
 <details>
@@ -59,14 +59,14 @@ I operate at the bleeding edge of Artificial Intelligence, Cyber-Defense, and Hi
 
 🛒 [E-Commerce_Core]: Co-architected an extensive Online Shopping Platform in a 5-node agile team. Led technical implementations focusing on backend architecture and scalable user interactions.
 
-📜BACKGROUND PROCESSES [Training & Certifications]
+📜 BACKGROUND PROCESSES [Training & Certifications]
 
 root@beratergun:~# cat /var/log/certifications.log
-[2026-04] SUCCESS: CS50x - Harvard University
-[2026-03] SUCCESS: Java Data Structures & Algorithms + LeetCode Exercises
-[2025-12 SUCCESS: Huawei Cloud Developer Training Program
-[2024-11] SUCCESS: Object-Oriented Programming with Java (Universidad de Palermo)
-[2024-10] SUCCESS: Programming with a Purpose (Princeton University)
+[2026-04-10] SUCCESS: CS50x - Harvard University
+[2026-03-01] SUCCESS: Java Data Structures & Algorithms + LeetCode Exercises
+[2025-12-15] SUCCESS: Huawei Cloud Developer Training Program
+[2024-11-20] SUCCESS: Object-Oriented Programming with Java (Universidad de Palermo)
+[2024-10-15] SUCCESS: Programming with a Purpose (Princeton University)
 
 📊 TELEMETRY & LIVE SERVER ANALYTICS
 <p align="center">
@@ -74,10 +74,13 @@ root@beratergun:~# cat /var/log/certifications.log
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dberatergun%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00%26currStreakNum%3D00FF00%26sideNums%3DA8B9CC%26sideLabels%3DA8B9CC%26dates%3DA8B9CC" alt="GitHub Streak" width="48%" />
 </p>
 
-⚡ ROOT ACCESS [Hardware & Resilience]
+⚡ ROOT ACCESS [Leadership & Resilience]
 > Initializing: High-Stress Execution
 Team Captain | Competitive Table Tennis (2015–2023)
 Led strategic execution and regional tournament domination (1st place rankings). Cultivated extreme discipline, high-pressure decision-making, and rapid reflex optimization—traits directly mirroring my algorithmic problem-solving approach in cyber-environments.
+
+> Ping: Cybersecurity Society
+Active node in TEDU's Cybersecurity network. Engaging in vulnerability assessment wargames, algorithmic security reasoning, and defensive programming protocols.
 
 <div align="center">
 <code>ESTABLISH SECURE UPLINK:</code>
