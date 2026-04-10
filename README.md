@@ -10,7 +10,7 @@
 ## 🖧 System Architecture & Vision
 I am a 3rd-year Computer Engineering student at TED University, operating at the intersection of **Artificial Intelligence, secure system design, and high-performance software engineering**. 
 
-I don't just write code; I architect scalable, resilient solutions. I am actively expanding my technical boundaries through advanced algorithm training, cloud computing programs, and hardware-level optimization (currently fine-tuning systems for maximum 300Hz competitive performance) to drive high-impact projects and secure international engineering roles for Summer 2026.
+I don't just write code; I architect scalable, resilient solutions. I am actively expanding my technical boundaries through advanced algorithm training, cloud computing programs, and hardware-level optimization (currently fine-tuning systems for maximum 300Hz competitive performance). My core directive is to drive high-impact engineering projects and secure international software engineering roles for Summer 2026.
 
 ---
 
@@ -23,21 +23,23 @@ I don't just write code; I architect scalable, resilient solutions. I am activel
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart_%2F_Flutter-Proficient-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Foundational-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart_%2F_Flutter-Proficient-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-Foundational-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VHDL-Hardware-000000?style=for-the-badge&logo=amd&logoColor=white" alt="VHDL" />
 </p>
 
 <details>
-<summary><b>⚙️ Core Competencies & Infrastructure (Click to Expand)</b></summary>
+<summary><b>⚙️ Core Competencies & Capabilities (Click to Expand)</b></summary>
 <ul>
-  <li><b>Competencies:</b> Algorithm Design & Complexity Analysis, Secure Software Design Principles, Object-Oriented Architecture, Backend-Frontend Integration, Structured Debugging & Testing.</li>
-  <li><b>Tools & Platforms:</b> IntelliJ IDEA, VS Code, Android Studio, Huawei Cloud Platform, Git/GitHub, VHDL (Xilinx ISE), Figma.</li>
+  <li><b>Core Logic:</b> Algorithm Design & Complexity Analysis, Secure Software Design Principles, Object-Oriented Architecture, Backend-Frontend Integration, Structured Debugging.</li>
+  <li><b>Tools & Platforms:</b> IntelliJ IDEA, VS Code, Android Studio, Huawei Cloud Platform, Git/GitHub, Xilinx ISE, Figma.</li>
+  <li><b>Linguistics:</b> English (Advanced / Professional), Turkish (Native), Italian (Elementary).</li>
 </ul>
 </details>
 
@@ -49,7 +51,16 @@ I don't just write code; I architect scalable, resilient solutions. I am activel
 * 📻 **Radio TEDU (Digital Media & Tech Ops):** Active contributor managing digital audio broadcasting infrastructures, exploring the intersection of media automation and technology.
 * 🕸️ **MST Graph Optimizer:** Developed an advanced algorithmic tool in Python. Implemented **Prim's and Kruskal's algorithms** to process raw graph datasets and compute Minimum Spanning Trees with high time-space efficiency.
 * 🛒 **E-Commerce Architecture:** Co-developed an extensive Online Shopping Platform in a 5-person agile team. Led technical implementations focusing on backend-frontend integration and scalable user interactions.
-* 🎮 **OmniGuess:** Engineered the core logic and competitive mechanics for an interactive multimedia trivia application, delivering a seamless music and film guessing experience.
+
+---
+
+## 📜 Certifications & Academic Training
+
+* 🎓 **Harvard University:** CS50x *(April 2026)*
+* ☕ **Advanced Algorithms:** Java Data Structures & Algorithms + LeetCode *(March 2026)*
+* ☁️ **Huawei:** Cloud Developer Training Program *(December 2025)*
+* 🏛️ **Universidad de Palermo:** Object-Oriented Programming with Java *(November 2024)*
+* 🏛️ **Princeton University:** Programming with a Purpose *(October 2024)*
 
 ---
 
@@ -66,6 +77,9 @@ I don't just write code; I architect scalable, resilient solutions. I am activel
 
 **Team Captain | Competitive Table Tennis** *(2015–2023)*
 Led team coordination and strategic preparation, achieving **1st place rankings in regional tournaments**. Mentored junior teammates and cultivated high-pressure decision-making abilities, extreme discipline, and performance resilience—traits that directly translate to my algorithmic problem-solving approach.
+
+**Cybersecurity Node | TEDU Society**
+Active participant in vulnerability assessment wargames and structured technical discussions on defensive programming practices.
 
 <br>
 
