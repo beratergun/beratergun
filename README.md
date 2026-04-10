@@ -48,7 +48,6 @@ I don't just write code; I architect scalable, resilient solutions. I am activel
 ## 🚀 Execution Logs (Featured Projects)
 
 * 🛡️ **PassGuard (CS50x Capstone):** A full-stack password strength analyzer. Engineered the backend using **Python (Flask)** and **SQLite** to evaluate and securely store real-time security scores. Designed dynamic, state-persistent UI mechanics leveraging JavaScript and Local Storage.
-* 📻 **Radio TEDU (Digital Media & Tech Ops):** Active contributor managing digital audio broadcasting infrastructures, exploring the intersection of media automation and technology.
 * 🕸️ **MST Graph Optimizer:** Developed an advanced algorithmic tool in Python. Implemented **Prim's and Kruskal's algorithms** to process raw graph datasets and compute Minimum Spanning Trees with high time-space efficiency.
 * 🛒 **E-Commerce Architecture:** Co-developed an extensive Online Shopping Platform in a 5-person agile team. Led technical implementations focusing on backend-frontend integration and scalable user interactions.
 
@@ -78,8 +77,8 @@ I don't just write code; I architect scalable, resilient solutions. I am activel
 **Team Captain | Competitive Table Tennis** *(2015–2023)*
 Led team coordination and strategic preparation, achieving **1st place rankings in regional tournaments**. Mentored junior teammates and cultivated high-pressure decision-making abilities, extreme discipline, and performance resilience—traits that directly translate to my algorithmic problem-solving approach.
 
-**Cybersecurity Node | TEDU Society**
-Active participant in vulnerability assessment wargames and structured technical discussions on defensive programming practices.
+**Technical Infrastructure Node | Radio TEDU**
+Active technical crew member managing digital broadcasting frameworks and hardware operations. Bridging the gap between media automation and backend engineering to ensure high-fidelity, uninterrupted transmission protocols.
 
 <br>
 
