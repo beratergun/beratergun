@@ -8,7 +8,7 @@
 ---
 
 ## 🖧 System Architecture & Vision
-I am a 3rd-year Computer Engineering student at TED University, operating at the intersection of **Artificial Intelligence, secure system design, and high-performance software engineering**. 
+I am a 4rd-year Computer Engineering student at TED University, operating at the intersection of **Artificial Intelligence, secure system design, and high-performance software engineering**. 
 
 I don't just write code; I architect scalable, resilient solutions. I am actively expanding my technical boundaries through advanced algorithm training, cloud computing programs, and academic cybersecurity initiatives to drive high-impact projects and secure international engineering roles for Summer 2026.
 
