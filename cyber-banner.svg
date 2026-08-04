@@ -1,0 +1,108 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Seyid Berat Ergün — AI Systems, Cybersecurity and Software Engineering</title>
+  <desc id="desc">Animated cyber security themed banner with a neon grid, network nodes and terminal interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#081325"/>
+      <stop offset="1" stop-color="#080A18"/>
+    </linearGradient>
+    <linearGradient id="cyanPurple" x1="150" y1="80" x2="1050" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset="0.55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 160) rotate(19) scale(410 260)">
+      <stop stop-color="#00F5D4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00F5D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(970 220) rotate(155) scale(370 250)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#1F3B55" stroke-width="1" stroke-opacity="0.36"/>
+    </pattern>
+    <pattern id="micro" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#67E8F9" fill-opacity="0.17"/>
+    </pattern>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textGlow" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip"><rect x="39" y="39" width="1122" height="312" rx="18"/></clipPath>
+    <style>
+      .scan { animation: scan 5.2s linear infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: center; }
+      .pulse2 { animation: pulse 3.4s ease-in-out infinite .7s; transform-origin: center; }
+      .blink { animation: blink 1.05s steps(2,end) infinite; }
+      .dash { stroke-dasharray: 8 12; animation: dash 8s linear infinite; }
+      .dashReverse { stroke-dasharray: 5 10; animation: dashReverse 7s linear infinite; }
+      .floatA { animation: floatA 4.6s ease-in-out infinite; }
+      .floatB { animation: floatB 5.3s ease-in-out infinite .4s; }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(430px); } }
+      @keyframes pulse { 0%,100% { opacity:.42; transform:scale(.92); } 50% { opacity:1; transform:scale(1.12); } }
+      @keyframes blink { 0%,45% { opacity:1; } 46%,100% { opacity:0; } }
+      @keyframes dash { to { stroke-dashoffset:-160; } }
+      @keyframes dashReverse { to { stroke-dashoffset:150; } }
+      @keyframes floatA { 0%,100% { transform:translate(0,0); } 50% { transform:translate(0,-7px); } }
+      @keyframes floatB { 0%,100% { transform:translate(0,0); } 50% { transform:translate(0,8px); } }
+      text { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#glowA)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#glowB)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#grid)" opacity="0.75"/>
+  <rect width="1200" height="390" rx="24" fill="url(#micro)"/>
+
+  <g clip-path="url(#screenClip)">
+    <rect class="scan" x="0" y="-70" width="1200" height="70" fill="url(#cyanPurple)" opacity="0.07"/>
+    <path class="dash" d="M50 303C170 240 272 336 397 264C518 194 624 270 756 207C875 150 993 214 1160 128" stroke="#00F5D4" stroke-width="1.5" opacity="0.43"/>
+    <path class="dashReverse" d="M43 113C173 180 281 83 423 153C565 222 668 136 803 190C935 243 1033 167 1165 230" stroke="#8B5CF6" stroke-width="1.5" opacity="0.38"/>
+  </g>
+
+  <rect x="24" y="24" width="1152" height="342" rx="22" stroke="url(#cyanPurple)" stroke-opacity="0.63"/>
+  <rect x="39" y="39" width="1122" height="312" rx="18" fill="#050A13" fill-opacity="0.55" stroke="#223248"/>
+
+  <g class="floatA">
+    <circle cx="88" cy="80" r="8" fill="#FF5F57"/>
+    <circle cx="116" cy="80" r="8" fill="#FFBD2E"/>
+    <circle cx="144" cy="80" r="8" fill="#28C840"/>
+  </g>
+  <text x="177" y="86" fill="#60758A" font-size="14" class="mono">secure-shell://beratergun@github/profile</text>
+  <text x="1033" y="86" fill="#00F5D4" font-size="13" class="mono">STATUS: ONLINE</text>
+  <circle class="pulse" cx="1016" cy="81" r="5" fill="#00F5D4" filter="url(#softGlow)"/>
+
+  <g opacity="0.95">
+    <path d="M87 131L106 121L125 131V154L106 165L87 154V131Z" stroke="#00F5D4" stroke-width="2"/>
+    <path d="M99 143L104 148L115 136" stroke="#00F5D4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="145" y="153" fill="#8FA5BA" font-size="17" class="mono">IDENTITY VERIFIED // ENGINEERING PROFILE</text>
+
+  <text x="82" y="224" fill="#F8FAFC" font-size="48" font-weight="800" letter-spacing="1.4">SEYID BERAT ERGÜN</text>
+  <rect x="83" y="243" width="742" height="3" rx="1.5" fill="url(#cyanPurple)" filter="url(#textGlow)"/>
+  <text x="83" y="282" fill="#00F5D4" font-size="22" font-weight="700" letter-spacing="2.2" class="mono">AI SYSTEMS  //  CYBERSECURITY  //  SOFTWARE ENGINEERING</text>
+  <text x="83" y="320" fill="#91A4B7" font-size="17" class="mono">Building intelligent, secure and resilient systems.</text>
+  <rect class="blink" x="660" y="304" width="11" height="20" rx="1" fill="#8B5CF6"/>
+
+  <g class="floatB">
+    <circle cx="969" cy="214" r="68" stroke="#00F5D4" stroke-opacity="0.25"/>
+    <circle cx="969" cy="214" r="49" stroke="#8B5CF6" stroke-opacity="0.36" stroke-dasharray="5 8" class="dash"/>
+    <circle cx="969" cy="214" r="24" fill="#071928" stroke="#00F5D4" stroke-width="2" filter="url(#softGlow)"/>
+    <path d="M958 214L966 222L982 204" stroke="#00F5D4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="pulse2" cx="969" cy="146" r="6" fill="#8B5CF6" filter="url(#softGlow)"/>
+    <circle class="pulse" cx="1037" cy="214" r="6" fill="#00F5D4" filter="url(#softGlow)"/>
+    <circle class="pulse2" cx="969" cy="282" r="6" fill="#22D3EE" filter="url(#softGlow)"/>
+    <circle class="pulse" cx="901" cy="214" r="6" fill="#8B5CF6" filter="url(#softGlow)"/>
+    <text x="927" y="318" fill="#60758A" font-size="12" class="mono">TRUST_BOUNDARY::ACTIVE</text>
+  </g>
+
+  <rect x="24" y="24" width="1152" height="342" rx="22" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="4"/>
+</svg>

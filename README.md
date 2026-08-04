@@ -63,7 +63,7 @@ status: "Building in public"
 
 <table>
 <tr>
-<td width="33.3%" valign="top">
+<td width="25%" valign="top">
 
 ### `INTELLIGENCE_STACK`
 - LLM systems
@@ -72,7 +72,7 @@ status: "Building in public"
 - research to implementation
 
 </td>
-<td width="33.3%" valign="top">
+<td width="25%" valign="top">
 
 ### `SECURITY_STACK`
 - secure architecture
@@ -81,7 +81,7 @@ status: "Building in public"
 - failure-path analysis
 
 </td>
-<td width="33.3%" valign="top">
+<td width="25%" valign="top">
 
 ### `ENGINEERING_STACK`
 - algorithms
@@ -90,8 +90,21 @@ status: "Building in public"
 - maintainability
 
 </td>
+<td width="25%" valign="top">
+
+### `SIGNAL_PROFILE`
+- TEDU Cybersecurity Society member
+- advanced / professional English
+- Huawei cloud training completed
+- leadership under pressure
+
+</td>
 </tr>
 </table>
+
+<div align="right">
+  <sub><code>DISCIPLINE // CLARITY // EXECUTION</code></sub>
+</div>
 
 > I build software around three non-negotiable properties: **clarity, resilience, and measurable performance**.
 
@@ -236,13 +249,6 @@ A five-person agile project focused on backend–frontend integration, maintaina
 </tr>
 </table>
 
-<details>
-<summary><b>📻 Additional operation: Radio TEDU — Digital Media & Technology</b></summary>
-<br />
-
-Active contribution to digital audio broadcasting operations while exploring the intersection of media infrastructure, automation, and technology.
-
-</details>
 
 ---
 
@@ -351,7 +357,13 @@ Active contribution to digital audio broadcasting operations while exploring the
 </tr>
 </table>
 
-## `0x08 // LEADERSHIP & RESILIENCE`
+## `0x08 // LEADERSHIP & TECH COMMUNITY`
+
+### **Radio TEDU — Technical Team Member**
+
+- Contribute to the technical side of campus broadcasting and media operations.
+- Support the infrastructure and workflow behind digital audio production.
+- Explore the intersection of communication technology, technical coordination, and engineering discipline.
 
 ### **Competitive Table Tennis — Team Captain** · *2015–2023*
 

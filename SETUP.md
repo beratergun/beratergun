@@ -1,24 +1,21 @@
-# GitHub Profile — Stable Telemetry Upload
+# GitHub Profile — Final V2 Upload
 
-Bu sürümde dışarıdan yüklenen GitHub istatistik kartları tamamen kaldırıldı.
-`0x07` bölümü artık repo içindeki `assets/telemetry-console.svg` dosyasını kullanır.
+Bu sürümde tasarım korunmuştur.
 
-## Yüklenecekler
+Eklenen güncellemeler:
+- 0x00 bölümündeki sağ boş alan yeni `SIGNAL_PROFILE` kutusuyla dolduruldu.
+- Radio TEDU bilgisi açık şekilde `Technical Team Member` olarak eklendi.
+- Telemetry bölümü repo içi SVG olarak korunuyor; kırık kart yok.
 
-- `README.md`
-- `assets/`
-- `.github/` (snake kullanacaksan; zorunlu değil)
+Yüklenecekler:
+- README.md
+- assets/
+- .github/ (snake daha sonra istersen)
 
-## Güncelleme
-
-1. GitHub'da `beratergun/beratergun` reposunu aç.
-2. `README.md` dosyasını aç ve kalem simgesine bas.
-3. Eski kodun tamamını silip bu paketteki `README.md` kodunu yapıştır.
-4. `assets` klasörüne `telemetry-console.svg` dosyasını yükle.
-5. Commit message:
-   `fix: replace broken stats cards with local telemetry console`
-
-## Önemli
-
-Yeni README içinde `github-readme-stats.vercel.app` veya başka bir dış istatistik kartı yoktur.
-Bu nedenle GitHub Statistics / Top Languages şeklindeki kırık görseller görünmez.
+Yükleme:
+1. `beratergun/beratergun` reposunda `README.md` dosyasını aç.
+2. Kalem simgesine bas.
+3. Tüm eski kodu sil.
+4. Bu paketteki yeni README.md kodunu yapıştır.
+5. `assets` klasörünü aynı şekilde yükle / mevcutsa güncelle.
+6. Commit message: `feat: refine profile layout and add Radio TEDU`
