@@ -93,10 +93,10 @@ status: "Building in public"
 <td width="25%" valign="top">
 
 ### `SIGNAL_PROFILE`
-- TEDU Cybersecurity Society member
-- advanced / professional English
+- TEDU RadioTedu Society member
+- Advanced / professional English
 - Huawei cloud training completed
-- leadership under pressure
+- Leadership under pressure
 
 </td>
 </tr>
