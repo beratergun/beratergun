@@ -25,29 +25,75 @@
 
 ## `0x00 // IDENTITY & MISSION`
 
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### `OPERATOR_PROFILE`
+
 ```yaml
-operator:
-  name: "Seyid Berat Ergün"
-  role: "4th-year Computer Engineering student"
-  university: "TED University"
-  location: "Ankara, Türkiye"
-  expected_graduation: "June 2027"
-
-primary_directives:
-  - "Engineer intelligent and reliable software systems"
-  - "Apply security-aware thinking from design to validation"
-  - "Strengthen algorithmic depth and performance engineering"
-  - "Turn structured learning into visible, testable projects"
-
-focus_stack:
-  intelligence: ["AI systems", "LLMs", "data-driven applications"]
-  security: ["secure architecture", "defensive programming", "validation"]
-  engineering: ["algorithms", "APIs", "scalability", "maintainability"]
-
-status: "Building in public // open to high-impact engineering opportunities"
+name: "Seyid Berat Ergün"
+role: "Computer Engineering Student"
+affiliation: "TED University"
+location: "Ankara, Türkiye"
+expected_graduation: "June 2027"
+status: "Building in public"
 ```
 
-I build software around three non-negotiable properties: **clarity, resilience, and measurable performance**. My interests converge around **artificial intelligence systems**, **security-aware software architecture**, **algorithmic problem solving**, and the engineering discipline required to turn an idea into a reliable system.
+</td>
+<td width="48%" valign="top">
+
+### `MISSION_PARAMETERS`
+
+- Engineer **intelligent, reliable, and measurable** software systems.
+- Apply **security-aware thinking** from architecture to validation.
+- Turn learning into **visible, testable, well-documented** projects.
+- Grow depth in **AI systems, cybersecurity, algorithms, and performance engineering**.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=00F5D4" alt="AI Systems" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-0D1117?style=for-the-badge&logo=dependabot&logoColor=8B5CF6" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/ALGORITHMS-0D1117?style=for-the-badge&logo=codeforces&logoColor=67E8F9" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/SECURE_SOFTWARE-0D1117?style=for-the-badge&logo=githubactions&logoColor=22D3EE" alt="Secure Software" />
+</div>
+
+<table>
+<tr>
+<td width="33.3%" valign="top">
+
+### `INTELLIGENCE_STACK`
+- LLM systems
+- AI engineering
+- data-driven applications
+- research to implementation
+
+</td>
+<td width="33.3%" valign="top">
+
+### `SECURITY_STACK`
+- secure architecture
+- defensive programming
+- validation mindset
+- failure-path analysis
+
+</td>
+<td width="33.3%" valign="top">
+
+### `ENGINEERING_STACK`
+- algorithms
+- APIs
+- scalability
+- maintainability
+
+</td>
+</tr>
+</table>
+
+> I build software around three non-negotiable properties: **clarity, resilience, and measurable performance**.
 
 <div align="center">
   <img src="./assets/system-matrix.svg" width="100%" alt="AI, cybersecurity, algorithms and software engineering system matrix" />
@@ -289,13 +335,8 @@ Active contribution to digital audio broadcasting operations while exploring the
 ## `0x07 // LIVE TELEMETRY`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beratergun&theme=github_dark" width="100%" alt="GitHub profile details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beratergun&theme=github_dark" width="32.5%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beratergun&theme=github_dark" width="32.5%" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beratergun&theme=github_dark&utcOffset=3" width="32.5%" alt="Productive commit time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beratergun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00F5D4&include_all_commits=true&count_private=true" width="49%" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratergun&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6&langs_count=8" width="49%" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -306,6 +347,14 @@ Active contribution to digital audio broadcasting operations while exploring the
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beratergun&bg_color=0d1117&color=94a3b8&line=00f5d4&point=8b5cf6&area=true&area_color=123c47&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="GitHub contribution activity graph" />
 </div>
 
+<details>
+<summary><b>Expand telemetry backup panel</b></summary>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beratergun&theme=github_dark" width="100%" alt="GitHub profile details" />
+</div>
+</details>
+
 ### `CONTRIBUTION_STREAM`
 
 <picture>
@@ -314,7 +363,7 @@ Active contribution to digital audio broadcasting operations while exploring the
   <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/beratergun/beratergun/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-> The contribution animation appears after the included GitHub Action runs successfully for the first time.
+> If a telemetry card does not load temporarily, GitHub’s profile-card providers are usually rate-limited for a short time. The main panel above uses a more stable layout with fewer providers.
 
 ---
 
