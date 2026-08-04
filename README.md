@@ -332,40 +332,24 @@ Active contribution to digital audio broadcasting operations while exploring the
 
 ---
 
-## `0x07 // LIVE TELEMETRY`
+## `0x07 // ENGINEERING TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratergun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00F5D4&include_all_commits=true&count_private=true" width="49%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratergun&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=8B5CF6&langs_count=8" width="49%" alt="Top languages" />
+  <img src="./assets/telemetry-console.svg" width="100%" alt="Local AI and cybersecurity engineering telemetry console" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=beratergun&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5D4&fire=8B5CF6&currStreakLabel=00F5D4&sideLabels=94A3B8&dates=64748B" width="58%" alt="GitHub contribution streak" />
+  <sub><code>REPO-LOCAL VISUAL // NO EXTERNAL GITHUB-STATS CARD DEPENDENCY</code></sub>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beratergun&bg_color=0d1117&color=94a3b8&line=00f5d4&point=8b5cf6&area=true&area_color=123c47&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="GitHub contribution activity graph" />
-</div>
-
-<details>
-<summary><b>Expand telemetry backup panel</b></summary>
-<br />
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beratergun&theme=github_dark" width="100%" alt="GitHub profile details" />
-</div>
-</details>
-
-### `CONTRIBUTION_STREAM`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beratergun/beratergun/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beratergun/beratergun/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/beratergun/beratergun/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-> If a telemetry card does not load temporarily, GitHub’s profile-card providers are usually rate-limited for a short time. The main panel above uses a more stable layout with fewer providers.
-
----
+<table>
+<tr>
+<td width="25%" align="center"><b>AI SYSTEMS</b><br><sub>Research → Prototype</sub></td>
+<td width="25%" align="center"><b>CYBERSECURITY</b><br><sub>Model → Validate</sub></td>
+<td width="25%" align="center"><b>ALGORITHMS</b><br><sub>Analyze → Optimize</sub></td>
+<td width="25%" align="center"><b>RELIABILITY</b><br><sub>Test → Harden</sub></td>
+</tr>
+</table>
 
 ## `0x08 // LEADERSHIP & RESILIENCE`
 
