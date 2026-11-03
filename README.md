@@ -5,11 +5,15 @@
 -->
 
 <div align="center">
-  <img src="./assets/cyber-banner-luminous.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
+  <img src="./assets/cyber-banner-neon.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
   <br />
-  <sub><a href="./assets/cyber-banner-luminous.png">View static banner</a></sub><br />
+  <sub><a href="./assets/cyber-banner-neon.png">View static banner</a></sub><br />
   <strong>Computer Engineering Student · TED University</strong><br />
   <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
+  <br /><br />
+  <img src="./assets/emblem-ai.gif" width="220" alt="AI systems — animated evaluation emblem" />
+  <img src="./assets/emblem-security.gif" width="220" alt="Cybersecurity — animated shield emblem" />
+  <img src="./assets/emblem-software.gif" width="220" alt="Software engineering — animated code emblem" />
   <br /><br />
   <a href="https://sberatergun.com"><img src="./assets/nav-portfolio.svg" width="150" alt="Portfolio" /></a>
   <a href="https://github.com/beratergun?tab=repositories"><img src="./assets/nav-labs.svg" width="150" alt="Engineering labs" /></a>
