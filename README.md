@@ -1,10 +1,8 @@
 <!--
   Seyid Berat Ergün · Engineering Portfolio
   Maintained at github.com/beratergun/beratergun
-  Repository-local static SVG graphics. No embedded scripts, fake metrics, or unverified production claims.
+  Repository-local animated identity and static engineering diagrams. No embedded scripts, fake metrics, or unverified production claims.
 -->
-
-## `0x00 // IDENTITY`
 
 <div align="center">
   <img src="./assets/cyber-banner-luminous.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
@@ -13,17 +11,21 @@
   <strong>Computer Engineering Student · TED University</strong><br />
   <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
   <br /><br />
-  <a href="https://sberatergun.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00E5CF?style=for-the-badge&logo=googlechrome&logoColor=08111F&labelColor=08111F" /></a>
-  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:beratergun04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/CONTACT-27364B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sberatergun.com"><img src="./assets/nav-portfolio.svg" width="150" alt="Portfolio" /></a>
+  <a href="https://github.com/beratergun?tab=repositories"><img src="./assets/nav-labs.svg" width="150" alt="Engineering labs" /></a>
+  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img src="./assets/nav-linkedin.svg" width="150" alt="LinkedIn" /></a>
 </div>
 
----
+## `0x00 // ENGINEERING PROFILE`
 
 **Seyid Berat Ergün** — 4th-year Computer Engineering student at **TED University**, Ankara.<br />
-Building cross-platform products, exploring applied AI/ML and strengthening software through testing and security-aware design.
+I build cross-platform applications and inspectable AI/security tools, with an emphasis on local-first design, testable behavior and clear project limits.
 
-**Currently working on:** **RadioTEDU** · **[berXfit](https://github.com/beratergun/berXfit)** · **PerDrobe**
+**Now:** RadioTEDU mobile engineering · [berXfit](https://github.com/beratergun/berXfit), a released personal product · PerDrobe, a capstone in development.
+
+| Build | Evaluate | Harden |
+|:--|:--|:--|
+| Mobile · APIs · local-first products | ML metrics · RAG · deterministic tests | Trust boundaries · regression · device QA |
 
 ## `0x01 // ENGINEERING EXPERIENCE`
 
@@ -46,8 +48,7 @@ Building cross-platform products, exploring applied AI/ML and strengthening soft
 - Responsive components adapted from Figma designs.
 - API integration, debugging and reusable UI structure.
 
-
-<sub>Work is described at its actual stage: development, laboratory prototyping or QA; not all features are released. Employer-internal systems remain private.</sub>
+<sub>RadioTEDU remains in development and QA. TPIC work is described as controlled internship exercises.</sub>
 
 ## `0x02 // SELECTED PROJECTS`
 
@@ -100,6 +101,11 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 
 </details>
 
+### Technical writing
+
+[**Local-First AI Assistant — Privacy, Routing & Guardrails ↗**](https://sberatergun.com/articles/local-first-ai-assistant-privacy-routing-guardrails)<br />
+How deterministic routing, trust boundaries and controlled fallback shape a small AI application.
+
 ## `0x03 // ENGINEERING SYSTEM MATRIX`
 
 <img src="./assets/system-matrix.svg" width="100%" alt="AI systems, cybersecurity, algorithms and reliable software connected through engineering and validation" />
@@ -132,7 +138,7 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 <br />
 
 - **Harvard University** — CS50x, Introduction to Computer Science (April 2026)
-- **HKUST** — Software Engineering: Implementation & Testing; Software Design & Project Management; UML Modeling (May 2026)
+- **HKUST** — Software Engineering: Implementation and Testing; Software Design and Project Management; Modeling Software Systems using UML (May 2026)
 - **Huawei** — Cloud Developer Training Program (December 2025)
 - **Princeton University** — Computer Science: Programming with a Purpose (October 2024)
 - **Universidad de Palermo** — Object-Oriented Programming with Java (November 2024)
