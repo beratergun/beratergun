@@ -7,8 +7,9 @@
 ## `0x00 // IDENTITY`
 
 <div align="center">
-  <img src="./assets/cyber-banner.svg" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
+  <img src="./assets/cyber-banner-motion.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
   <br />
+  <sub><a href="./assets/cyber-banner.svg">View static banner</a></sub><br />
   <strong>Computer Engineering · TED University</strong><br />
   <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
   <br /><br />
