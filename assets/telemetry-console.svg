@@ -1,1 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc"><title id="title">Seyid Berat Ergün — Engineering Telemetry</title><desc id="desc">Static conceptual console of AI, security, algorithms and software quality workflows. No live data, numerical metrics or operational status claims.</desc><defs><linearGradient id="accent"><stop stop-color="#5BFFED"/><stop offset=".45" stop-color="#2563EB"/><stop offset="1" stop-color="#2A9FFF"/></linearGradient><radialGradient id="halo"><stop stop-color="#2A9FFF" stop-opacity=".18"/><stop offset="1" stop-color="#2A9FFF" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B3C3DF" stroke-opacity=".06"/></pattern><style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#F0F5FF}.mono{font-family:Consolas,'Liberation Mono',monospace}.muted{fill:#B3C3DF}.cyan{fill:#5BFFED}.violet{fill:#9ADEFF}</style></defs><rect width="1200" height="370" rx="20" fill="#0A1020"/><rect width="1200" height="370" rx="20" fill="url(#grid)"/><ellipse cx="1020" cy="185" rx="340" ry="220" fill="url(#halo)"/><rect x="1" y="1" width="1198" height="368" rx="19" stroke="#28324A" fill="none"/><path d="M24 1H1176" stroke="url(#accent)" stroke-width="2"/><text x="32" y="36" font-size="12" class="mono violet" >CONSOLE / 02</text><text x="32" y="77" font-size="27" class="" font-weight="600">Engineering telemetry</text><text x="1168" y="36" font-size="12" class="mono muted" text-anchor="end">STATIC / CONCEPTUAL</text><rect x="32" y="110" width="356" height="85" rx="10" fill="#121B32" stroke="#28324A"/><circle cx="52" cy="133" r="4" fill="#5BFFED"/><text x="67" y="138" font-size="16" class="mono" >AI / EVALUATE</text><text x="50" y="170" font-size="16" class="muted" >ML Eval Studio · RAG Workbench</text><rect x="406" y="110" width="356" height="85" rx="10" fill="#121B32" stroke="#28324A"/><circle cx="426" cy="133" r="4" fill="#9ADEFF"/><text x="441" y="138" font-size="16" class="mono" >SECURITY / REVIEW</text><text x="424" y="170" font-size="16" class="muted" >Guardrail rules · API policies</text><rect x="32" y="213" width="356" height="85" rx="10" fill="#121B32" stroke="#28324A"/><circle cx="52" cy="236" r="4" fill="#5BFFED"/><text x="67" y="241" font-size="16" class="mono" >ALGORITHMS / REASON</text><text x="50" y="273" font-size="16" class="muted" >Graphs · deterministic fixtures</text><rect x="406" y="213" width="356" height="85" rx="10" fill="#121B32" stroke="#28324A"/><circle cx="426" cy="236" r="4" fill="#9ADEFF"/><text x="441" y="241" font-size="16" class="mono" >QUALITY / VERIFY</text><text x="424" y="273" font-size="16" class="muted" >Jest · regression · device QA</text><rect x="800" y="110" width="368" height="188" rx="12" fill="#121B32" stroke="#194D70"/><text x="822" y="141" font-size="14" class="mono violet" >WORKFLOW / FEEDBACK LOOP</text><g fill="none" stroke="url(#accent)" stroke-width="2"><path d="M828 184H888L922 215H979L1014 176H1137"/><path d="M828 249H901L938 183H982L1020 235H1137" opacity=".6"/></g><g fill="#5BFFED"><circle cx="888" cy="184" r="4"/><circle cx="979" cy="215" r="4"/></g><g fill="#2A9FFF"><circle cx="938" cy="183" r="4"/><circle cx="1020" cy="235" r="4"/></g><text x="822" y="279" font-size="14" class="mono muted" >QUESTION → TEST → LEARN → ITERATE</text><path d="M32 323H1168" stroke="#28324A"/><text x="32" y="348" font-size="13" class="mono cyan" >$ build → validate → harden → document</text><text x="1168" y="348" font-size="12" class="mono muted" text-anchor="end">WORKFLOWS, NOT LIVE METRICS</text></svg>
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Seyid Berat Ergün Engineering Workflow Console</title>
+  <desc id="desc">Conceptual process diagram for AI evaluation, security review, algorithms and software quality; no measured scores.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#071321"/>
+      <stop offset="1" stop-color="#0B0717"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="110" y1="60" x2="1060" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5D4"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(230 180) rotate(15) scale(420 250)">
+      <stop stop-color="#00F5D4" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#00F5D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 240) rotate(165) scale(360 240)">
+      <stop stop-color="#8B5CF6" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1B3448" stroke-opacity=".38"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="screen">
+      <rect x="34" y="34" width="1132" height="362" rx="20"/>
+    </clipPath>
+    <style>
+      text { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .scan { animation: scan 5s linear infinite; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; transform-origin:center; }
+      .pulse2 { animation: pulse 2.8s ease-in-out infinite .5s; transform-origin:center; }
+      .blink { animation: blink 1s steps(2,end) infinite; }
+      .flow { stroke-dasharray: 7 11; animation: flow 7s linear infinite; }
+      .flow2 { stroke-dasharray: 5 10; animation: flow2 8s linear infinite; }
+      .bar1 { animation: bar1 3.2s ease-in-out infinite; transform-origin:left; }
+      .bar2 { animation: bar2 3.8s ease-in-out infinite .4s; transform-origin:left; }
+      .bar3 { animation: bar3 4.1s ease-in-out infinite .7s; transform-origin:left; }
+      @keyframes scan { from { transform:translateY(-80px); } to { transform:translateY(520px); } }
+      @keyframes pulse { 0%,100% { opacity:.38; transform:scale(.9); } 50% { opacity:1; transform:scale(1.14); } }
+      @keyframes blink { 0%,45% { opacity:1; } 46%,100% { opacity:0; } }
+      @keyframes flow { to { stroke-dashoffset:-160; } }
+      @keyframes flow2 { to { stroke-dashoffset:160; } }
+      @keyframes bar1 { 0%,100% { transform:scaleX(.82); } 50% { transform:scaleX(1); } }
+      @keyframes bar2 { 0%,100% { transform:scaleX(.7); } 50% { transform:scaleX(.95); } }
+      @keyframes bar3 { 0%,100% { transform:scaleX(.76); } 50% { transform:scaleX(1); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#purpleGlow)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#grid)"/>
+
+  <g clip-path="url(#screen)">
+    <rect class="scan" x="0" y="-80" width="1200" height="72" fill="url(#accent)" opacity=".06"/>
+    <path class="flow" d="M30 330C180 270 290 365 430 300C580 230 690 295 835 235C965 182 1060 225 1180 150" stroke="#00F5D4" stroke-opacity=".32" stroke-width="1.5"/>
+    <path class="flow2" d="M25 115C175 180 285 95 430 155C565 210 695 145 825 198C960 252 1070 182 1185 230" stroke="#8B5CF6" stroke-opacity=".28" stroke-width="1.4"/>
+  </g>
+
+  <rect x="22" y="22" width="1156" height="386" rx="24" stroke="url(#accent)" stroke-opacity=".58"/>
+  <rect x="34" y="34" width="1132" height="362" rx="20" fill="#050B14" fill-opacity=".62" stroke="#223449"/>
+
+  <circle cx="70" cy="66" r="7" fill="#FF5F57"/>
+  <circle cx="94" cy="66" r="7" fill="#FFBD2E"/>
+  <circle cx="118" cy="66" r="7" fill="#28C840"/>
+  <text x="146" y="72" fill="#6E859A" font-size="14" class="mono">workflow://beratergun/engineering</text>
+  <circle class="pulse" cx="1030" cy="66" r="5" fill="#00F5D4" filter="url(#glow)"/>
+  <text x="1046" y="72" fill="#00F5D4" font-size="13" class="mono">PROCESS MAP</text>
+
+  <text x="64" y="125" fill="#F8FAFC" font-size="30" font-weight="800" letter-spacing="1">ENGINEERING WORKFLOW</text>
+  <text x="64" y="153" fill="#7E95AA" font-size="14" class="mono">CONCEPTUAL WORKFLOW // AI / SECURITY / SOFTWARE</text>
+  <rect x="64" y="169" width="610" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <!-- Left status cards -->
+  <g>
+    <rect x="64" y="200" width="300" height="78" rx="14" fill="#09131F" stroke="#183549"/>
+    <circle class="pulse" cx="91" cy="225" r="6" fill="#00F5D4" filter="url(#glow)"/>
+    <text x="108" y="230" fill="#AFC4D6" font-size="14" class="mono">AI_SYSTEMS</text>
+    <text x="88" y="257" fill="#F8FAFC" font-size="17" font-weight="700">Research → Prototype → Evaluate</text>
+  </g>
+  <g>
+    <rect x="382" y="200" width="300" height="78" rx="14" fill="#09131F" stroke="#28304C"/>
+    <circle class="pulse2" cx="409" cy="225" r="6" fill="#8B5CF6" filter="url(#glow)"/>
+    <text x="426" y="230" fill="#AFC4D6" font-size="14" class="mono">SECURITY_TRACK</text>
+    <text x="406" y="257" fill="#F8FAFC" font-size="17" font-weight="700">Model → Validate → Harden</text>
+  </g>
+
+  <!-- Process milestones; no proficiency scores -->
+<text x="66" y="313" fill="#AFC4D6" font-size="11" class="mono">ANALYZE / IMPLEMENT / TEST</text><path d="M71 328H341" stroke="#24445C" stroke-width="1"/><circle cx="71" cy="328" r="3" fill="#00F5D4"/><circle cx="206" cy="328" r="3" fill="#00F5D4"/><circle cx="341" cy="328" r="3" fill="#00F5D4"/><text x="384" y="313" fill="#AFC4D6" font-size="11" class="mono">MODEL / VALIDATE / HARDEN</text><path d="M389 328H659" stroke="#24445C" stroke-width="1"/><circle cx="389" cy="328" r="3" fill="#22D3EE"/><circle cx="524" cy="328" r="3" fill="#22D3EE"/><circle cx="659" cy="328" r="3" fill="#22D3EE"/><text x="66" y="362" fill="#AFC4D6" font-size="11" class="mono">RETRIEVE / EVALUATE / EXPLAIN</text><path d="M71 377H341" stroke="#24445C" stroke-width="1"/><circle cx="71" cy="377" r="3" fill="#8B5CF6"/><circle cx="206" cy="377" r="3" fill="#8B5CF6"/><circle cx="341" cy="377" r="3" fill="#8B5CF6"/><text x="384" y="362" fill="#AFC4D6" font-size="11" class="mono">BUILD / VERIFY / DOCUMENT</text><path d="M389 377H659" stroke="#24445C" stroke-width="1"/><circle cx="389" cy="377" r="3" fill="#00F5D4"/><circle cx="524" cy="377" r="3" fill="#00F5D4"/><circle cx="659" cy="377" r="3" fill="#00F5D4"/>
+  <!-- Radar / right panel -->
+  <g>
+    <rect x="720" y="109" width="406" height="274" rx="18" fill="#07101B" stroke="#223449"/>
+    <text x="748" y="140" fill="#8FA6BA" font-size="13" class="mono">VALIDATION / FEEDBACK</text>
+
+    <circle cx="914" cy="244" r="96" stroke="#17334A"/>
+    <circle cx="914" cy="244" r="68" stroke="#18384A"/>
+    <circle cx="914" cy="244" r="40" stroke="#1D3851"/>
+    <path d="M914 148V340M818 244H1010M846 176L982 312M982 176L846 312" stroke="#17334A"/>
+    <path class="flow" d="M914 244L980 188" stroke="#00F5D4" stroke-width="2"/>
+    <path d="M914 244L970 232L953 285L897 305L858 265L871 206Z" fill="#00F5D4" fill-opacity=".10" stroke="url(#accent)" stroke-width="2"/>
+    <circle class="pulse" cx="970" cy="232" r="6" fill="#00F5D4" filter="url(#glow)"/>
+    <circle class="pulse2" cx="953" cy="285" r="6" fill="#8B5CF6" filter="url(#glow)"/>
+    <circle class="pulse" cx="871" cy="206" r="6" fill="#22D3EE" filter="url(#glow)"/>
+
+    <text x="748" y="354" fill="#00F5D4" font-size="14" class="mono">BUILD → TEST → HARDEN → ITERATE</text>
+    <rect class="blink" x="1085" y="341" width="9" height="16" rx="1" fill="#8B5CF6"/>
+  </g>
+</svg>

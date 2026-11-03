@@ -1,37 +1,53 @@
-<!--
-  Seyid Berat Ergün · Engineering Portfolio
-  Maintained at github.com/beratergun/beratergun
-  Repository-local animated identity and static engineering diagrams. No embedded scripts, fake metrics, or unverified production claims.
--->
+<!-- Seyid Berat Ergün · Engineering portfolio · repository-local visual assets -->
 
 <div align="center">
-  <img src="./assets/cyber-banner-neon.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
+  <img src="./assets/terminal-banner.gif" width="100%" alt="Seyid Berat Ergün — TED University Computer Engineering Student; animated terminal engineering profile" />
   <br />
-  <sub><a href="./assets/cyber-banner-neon.png">View static banner</a></sub><br />
-  <strong>Computer Engineering Student · TED University</strong><br />
-  <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
+  <sub><a href="./assets/terminal-banner.png">Static banner</a></sub>
   <br /><br />
-  <img src="./assets/emblem-ai.gif" width="220" alt="AI systems — animated evaluation emblem" />
-  <img src="./assets/emblem-security.gif" width="220" alt="Cybersecurity — animated shield emblem" />
-  <img src="./assets/emblem-software.gif" width="220" alt="Software engineering — animated code emblem" />
-  <br /><br />
-  <a href="https://sberatergun.com"><img src="./assets/nav-portfolio.svg" width="150" alt="Portfolio" /></a>
-  <a href="https://github.com/beratergun?tab=repositories"><img src="./assets/nav-labs.svg" width="150" alt="Engineering labs" /></a>
-  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img src="./assets/nav-linkedin.svg" width="150" alt="LinkedIn" /></a>
+  <a href="https://sberatergun.com"><img src="https://img.shields.io/badge/PORTFOLIO-sberatergun.com-00DCC8?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:beratergun04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
 </div>
 
-## `0x00 // ENGINEERING PROFILE`
+---
 
-**Seyid Berat Ergün** — 4th-year Computer Engineering student at **TED University**, Ankara.<br />
-I build cross-platform applications and inspectable AI/security tools, with an emphasis on local-first design, testable behavior and clear project limits.
+## `0x00 // IDENTITY & MISSION`
 
-**Now:** RadioTEDU mobile engineering · [berXfit](https://github.com/beratergun/berXfit), a released personal product · PerDrobe, a capstone in development.
+<table>
+<tr><td width="48%" valign="top">
 
-| Build | Evaluate | Harden |
-|:--|:--|:--|
-| Mobile · APIs · local-first products | ML metrics · RAG · deterministic tests | Trust boundaries · regression · device QA |
+### `ENGINEER_PROFILE`
 
-## `0x01 // ENGINEERING EXPERIENCE`
+```yaml
+name: Seyid Berat Ergün
+role: Computer Engineering Student
+university: TED University
+location: Ankara, Türkiye
+focus: AI · Security · Software
+```
+
+</td><td width="52%" valign="top">
+
+### `ENGINEERING_FOCUS`
+
+I build cross-platform applications and small, inspectable AI and security tools.
+
+- **Intelligence:** evaluation, retrieval and explainable behavior.
+- **Security:** trust boundaries, validation and failure paths.
+- **Software:** mobile applications, APIs and local-first products.
+- **Quality:** regression tests, device QA and clear documentation.
+
+</td></tr>
+</table>
+
+<img src="./assets/active-workstreams.gif" width="100%" alt="Current work: RadioTEDU mobile development and QA; berXfit released local-first product; PerDrobe capstone in development" />
+
+<sub>RadioTEDU and PerDrobe are in development. berXfit is a released personal product.</sub>
+
+---
+
+## `0x01 // FIELD EXPERIENCE`
 
 ### RadioTEDU · Technical Team / Mobile Engineering
 <sub>2026–Present · React Native · TypeScript · Android / iOS</sub>
@@ -54,7 +70,7 @@ I build cross-platform applications and inspectable AI/security tools, with an e
 
 <sub>RadioTEDU remains in development and QA. TPIC work is described as controlled internship exercises.</sub>
 
-## `0x02 // SELECTED PROJECTS`
+## `0x02 // PROJECT OPERATIONS`
 
 <table>
 <tr>
@@ -110,11 +126,16 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 [**Local-First AI Assistant — Privacy, Routing & Guardrails ↗**](https://sberatergun.com/articles/local-first-ai-assistant-privacy-routing-guardrails)<br />
 How deterministic routing, trust boundaries and controlled fallback shape a small AI application.
 
-## `0x03 // ENGINEERING SYSTEM MATRIX`
+## `0x03 // SYSTEM INTERSECTION`
 
 <img src="./assets/system-matrix.svg" width="100%" alt="AI systems, cybersecurity, algorithms and reliable software connected through engineering and validation" />
 
-## `0x04 // TECHNICAL STACK`
+## `0x04 // TECHNICAL ARSENAL`
+
+### `LANGUAGES & APPLICATIONS`
+
+<p align="center"><img src="./assets/stack-languages.svg" width="640" alt="TypeScript, React, Python, Java, Dart, Flutter, C, MySQL, Flask and JavaScript" /></p>
+
 
 - **Languages:** TypeScript / JavaScript, Python, Java, Dart, C, SQL, VHDL.
 - **Mobile:** React Native, Flutter, Android / iOS, state management.
@@ -122,6 +143,25 @@ How deterministic routing, trust boundaries and controlled fallback shape a smal
 - **AI / ML:** Model evaluation, local models, RAG, algorithms and data structures.
 - **Quality & security:** Jest, TypeScript checks, regression tests, secure design.
 - **Tools:** Git / GitHub, VS Code, Android Studio, Figma.
+
+### `TOOLS & WORKFLOW`
+
+<p align="center"><img src="./assets/stack-tools.svg" width="448" alt="Git, GitHub, VS Code, IntelliJ IDEA, Android Studio, Figma and Arduino" /></p>
+
+<details>
+<summary><b>Security and reliability principles</b></summary>
+
+```text
+01  Define trust boundaries.
+02  Validate inputs and assumptions.
+03  Design failure paths alongside successful flows.
+04  Preserve user data across offline and recovery flows.
+05  Test edge cases and document known limits.
+```
+
+</details>
+
+---
 
 ## `0x05 // COMMUNITIES & LEADERSHIP`
 
@@ -137,10 +177,6 @@ How deterministic routing, trust boundaries and controlled fallback shape a smal
 
 **TED University** — B.Sc. Computer Engineering (in progress; expected June 2027)
 
-<details>
-<summary><b>Certificates & additional training</b></summary>
-<br />
-
 - **Harvard University** — CS50x, Introduction to Computer Science (April 2026)
 - **HKUST** — Software Engineering: Implementation and Testing; Software Design and Project Management; Modeling Software Systems using UML (May 2026)
 - **Huawei** — Cloud Developer Training Program (December 2025)
@@ -149,13 +185,11 @@ How deterministic routing, trust boundaries and controlled fallback shape a smal
 - **Additional training** — Java Data Structures & Algorithms + LeetCode Exercises (March 2026)
 - **TED University** — Academic Production and Institutional Processes with Artificial Intelligence
 
-</details>
+## `0x07 // ENGINEERING WORKFLOW`
 
-## `0x07 // ENGINEERING TELEMETRY`
+<img src="./assets/telemetry-console.svg" width="100%" alt="Conceptual engineering workflow: AI evaluation, security review, algorithms and software quality" />
 
-<img src="./assets/telemetry-console.svg" width="100%" alt="Conceptual console showing AI evaluation, security review, algorithms and quality workflows; no live metrics" />
-
-## `0x08 // CONTACT`
+## `0x08 // COMMUNICATION CHANNELS`
 
 <div align="center">
   <sub><a href="mailto:beratergun04@gmail.com">beratergun04@gmail.com</a> · Ankara, Türkiye</sub><br />
