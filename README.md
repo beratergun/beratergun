@@ -7,10 +7,10 @@
 ## `0x00 // IDENTITY`
 
 <div align="center">
-  <img src="./assets/cyber-banner-signature.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
+  <img src="./assets/cyber-banner-luminous.gif" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
   <br />
-  <sub><a href="./assets/cyber-banner-signature.png">View static banner</a></sub><br />
-  <strong>Computer Engineering · TED University</strong><br />
+  <sub><a href="./assets/cyber-banner-luminous.png">View static banner</a></sub><br />
+  <strong>Computer Engineering Student · TED University</strong><br />
   <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
   <br /><br />
   <a href="https://sberatergun.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00E5CF?style=for-the-badge&logo=googlechrome&logoColor=08111F&labelColor=08111F" /></a>
