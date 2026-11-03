@@ -1,14 +1,15 @@
 <!-- Seyid Berat Ergün | Engineering Portfolio | github.com/beratergun -->
+<!-- Animated GIFs are repository-local: no JS, external APIs, or dynamic statistics. -->
 <div align="center">
-  <img src="./assets/cyber-banner.svg" width="100%" alt="Seyid Berat Ergün — AI Systems, Cybersecurity & Software Engineering" />
-  <h2>Building intelligent systems. Engineering for trust.</h2>
+  <img src="./assets/sbe-hero.gif" width="100%" alt="Animated cyber engineering banner for Seyid Berat Ergün: AI systems, cybersecurity and software engineering" />
+  <h3>Engineering intelligent systems. Designing for reliability.</h3>
+  <sub><a href="./assets/sbe-hero-preview.png">View still banner</a> · <a href="./assets/active-workstreams-preview.png">View still workstreams</a></sub>
   <p><b>Computer Engineering @ TED University</b><br/>AI/ML Systems · Cross-Platform Engineering · Secure Software · Quality Engineering</p>
   <p>
     <a href="https://sberatergun.com"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=07111F" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:beratergun04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=850&height=45&lines=Building+AI-powered+experiences;Engineering+cross-platform+mobile+products;Testing+failure+paths+and+edge+cases;Designing+with+clarity%2C+security+and+evidence" alt="Engineering areas" />
 </div>
 
 ---
@@ -22,6 +23,10 @@ I work at the intersection of **intelligent applications, reliable software and 
 | BUILD | VALIDATE | EXPLORE |
 |:--|:--|:--|
 | React Native, TypeScript, Flutter, APIs | Regression testing, device QA, reproducible issues | AI/ML systems, local models, RAG evaluation, security |
+
+<div align="center">
+  <img src="./assets/active-workstreams.gif" width="100%" alt="Animated workstream status panel: RadioTEDU mobile engineering, berXfit local-first fitness application and PerDrobe AI/ML capstone" />
+</div>
 
 **Currently focused on:** the **RadioTEDU mobile ecosystem**, the **berXfit** application and the **PerDrobe** university capstone.
 
