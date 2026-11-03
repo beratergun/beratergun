@@ -1,11 +1,13 @@
 <!--
   Seyid Berat Ergün · Engineering Portfolio
   Maintained at github.com/beratergun/beratergun
-  Local hero image. No embedded scripts, fake metrics, or unverified production claims.
+  Repository-local static SVG graphics. No embedded scripts, fake metrics, or unverified production claims.
 -->
 
+## `0x00 // IDENTITY`
+
 <div align="center">
-  <img src="./assets/profile-hero-2026.png" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
+  <img src="./assets/cyber-banner.svg" alt="Seyid Berat Ergün — AI Systems, Secure Software, Product Engineering" width="100%" />
   <br />
   <strong>Computer Engineering · TED University</strong><br />
   <sub>AI / ML &nbsp;•&nbsp; Mobile Engineering &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Software Quality</sub>
@@ -17,51 +19,36 @@
 
 ---
 
-## `01 // THE ENGINEER`
-
 **Seyid Berat Ergün** — 4th-year Computer Engineering student at **TED University**, Ankara.<br />
 Building cross-platform products, exploring applied AI/ML and strengthening software through testing and security-aware design.
 
-| `BUILD` | `VERIFY` | `EXPLORE` |
-|:--|:--|:--|
-| React Native · Flutter · APIs | Regression tests · Device QA | AI evaluation · RAG · Security |
-
 **Currently working on:** **RadioTEDU** · **[berXfit](https://github.com/beratergun/berXfit)** · **PerDrobe**
 
-## `02 // ENGINEERING EXPERIENCE`
+## `0x01 // ENGINEERING EXPERIENCE`
 
-<table>
-<tr>
-<td valign="top" width="25%"><b>RadioTEDU</b><br /><sub>Technical Team / Mobile Engineering<br />2026–Present</sub></td>
-<td valign="top">
-<b>React Native · TypeScript · Android / iOS</b><br />
-• Playback, channel switching, navigation and platform-specific fixes<br />
-• API-integrated features: profile, authentication, notifications<br />
-• Jest regression runs, device QA, issue tracking and release checks
-</td>
-</tr>
-<tr>
-<td valign="top"><b>TPIC</b><br /><sub>Information Technologies Intern<br />Aug–Sep 2026</sub></td>
-<td valign="top">
-<b>Enterprise IT · Prototyping · Validation</b><br />
-• Corporate IT workflows and technical documentation<br />
-• Controlled technical exercises, validation and infrastructure investigations<br />
-• Access-boundary, error-handling and reliability checks
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Tusdata</b><br /><sub>Software Development Intern<br />Summer 2025</sub></td>
-<td valign="top">
-<b>Flutter · Dart · REST APIs</b><br />
-• Responsive components from Figma designs<br />
-• API integration, debugging and reusable UI structure
-</td>
-</tr>
-</table>
+### RadioTEDU · Technical Team / Mobile Engineering
+<sub>2026–Present · React Native · TypeScript · Android / iOS</sub>
+
+- Playback, channel switching, navigation and platform-specific fixes.
+- API-integrated profile, authentication and notification features.
+- Jest regression checks, device QA, issue tracking and release checks.
+
+### TPIC · Information Technologies Intern
+<sub>Aug–Sep 2026 · Enterprise IT · Controlled technical exercises</sub>
+
+- Corporate IT workflows, infrastructure investigations and documentation.
+- Validation of access boundaries, error handling and reliability.
+
+### Tusdata · Software Development Intern
+<sub>Summer 2025 · Flutter · Dart · REST APIs</sub>
+
+- Responsive components adapted from Figma designs.
+- API integration, debugging and reusable UI structure.
+
 
 <sub>Work is described at its actual stage: development, laboratory prototyping or QA; not all features are released. Employer-internal systems remain private.</sub>
 
-## `03 // SELECTED PROJECTS`
+## `0x02 // SELECTED PROJECTS`
 
 <table>
 <tr>
@@ -112,17 +99,20 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 
 </details>
 
-## `04 // TOOLKIT`
+## `0x03 // ENGINEERING SYSTEM MATRIX`
 
-<div align="center">
-  <img width="100%" src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,python,java,dart,flutter,git,github&perline=10&theme=dark" alt="TypeScript, React, Node.js, PostgreSQL, Python, Java, Dart, Flutter, Git and GitHub" />
-</div>
+<img src="./assets/system-matrix.svg" width="100%" alt="AI systems, cybersecurity, algorithms and reliable software connected through engineering and validation" />
 
-**Application:** React Native, JavaScript/TypeScript, Flutter/Dart, REST APIs, state management, Node.js/Express, PostgreSQL; ASP.NET Core exposure<br />
-**Quality & security:** Jest, TypeScript checks, regression testing, secure design<br />
-**AI & foundations:** Python, model evaluation, local models, RAG, algorithms, data structures, Java, SQL/MySQL, C, VHDL; Git, VS Code, Android Studio, Figma, HTML/CSS
+## `0x04 // TECHNICAL STACK`
 
-## `05 // COMMUNITY`
+- **Languages:** TypeScript / JavaScript, Python, Java, Dart, C, SQL, VHDL.
+- **Mobile:** React Native, Flutter, Android / iOS, state management.
+- **Backend & web:** REST APIs, Node.js / Express, PostgreSQL, MySQL, HTML / CSS; ASP.NET Core exposure.
+- **AI / ML:** Model evaluation, local models, RAG, algorithms and data structures.
+- **Quality & security:** Jest, TypeScript checks, regression tests, secure design.
+- **Tools:** Git / GitHub, VS Code, Android Studio, Figma.
+
+## `0x05 // COMMUNITIES & LEADERSHIP`
 
 | Community | Role |
 |:--|:--|
@@ -130,13 +120,14 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 | **TEDU Google developer community** | Technical & organization teams |
 | **TEDU Chess Club** | Design team |
 | **TEDU Cybersecurity Society** | Member since 2023 · security learning |
+| **Competitive Table Tennis** | Team captain · 2015–2023; Ankara regional first-place results, junior mentoring |
 
-## `06 // EDUCATION & CERTIFICATES`
+## `0x06 // EDUCATION & CERTIFICATIONS`
 
 **TED University** — B.Sc. Computer Engineering (in progress; expected June 2027)
 
 <details>
-<summary><b>Certificates & earlier leadership</b></summary>
+<summary><b>Certificates & additional training</b></summary>
 <br />
 
 - **Harvard University** — CS50x, Introduction to Computer Science (April 2026)
@@ -146,11 +137,14 @@ Explainable rule-based checks for prompt-injection patterns and sensitive-text r
 - **Universidad de Palermo** — Object-Oriented Programming with Java (November 2024)
 - **Additional training** — Java Data Structures & Algorithms + LeetCode Exercises (March 2026)
 - **TED University** — Academic Production and Institutional Processes with Artificial Intelligence
-- **Competitive table tennis** — Team captain (2015–2023); Ankara regional first-place results, junior mentoring
 
 </details>
 
----
+## `0x07 // ENGINEERING TELEMETRY`
+
+<img src="./assets/telemetry-console.svg" width="100%" alt="Conceptual console showing AI evaluation, security review, algorithms and quality workflows; no live metrics" />
+
+## `0x08 // CONTACT`
 
 <div align="center">
   <sub><a href="mailto:beratergun04@gmail.com">beratergun04@gmail.com</a> · Ankara, Türkiye</sub><br />
