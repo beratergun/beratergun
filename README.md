@@ -5,31 +5,24 @@
   <br />
   <sub><a href="./assets/terminal-banner.png">Static banner</a></sub>
   <br /><br />
-  <a href="https://sberatergun.com"><img src="https://img.shields.io/badge/PORTFOLIO-sberatergun.com-00DCC8?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="mailto:beratergun04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://sberatergun.com"><img src="./assets/contact-portfolio.svg" width="31%" alt="Portfolio — selected work" /></a>
+  <a href="https://www.linkedin.com/in/seyid-berat-erg%C3%BCn/"><img src="./assets/contact-linkedin.svg" width="31%" alt="LinkedIn — professional profile" /></a>
+  <a href="mailto:beratergun04@gmail.com"><img src="./assets/contact-email.svg" width="31%" alt="Email — get in touch" /></a>
 </div>
 
 ---
 
 ## `0x00 // IDENTITY & MISSION`
 
-<table>
-<tr><td width="48%" valign="top">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/identity-focus.png" />
+  <img src="./assets/identity-focus.gif" width="100%" alt="Seyid Berat Ergün, Computer Engineering Student at TED University in Ankara. Focus: AI, security and software. Intelligence: evaluation and retrieval; Security: trust boundaries and validation; Software: mobile apps, APIs and local-first products; Quality: regression tests, device QA and documentation." />
+</picture>
 
-### `ENGINEER_PROFILE`
+<details>
+<summary>Read profile &amp; engineering focus as text</summary>
 
-```yaml
-name: Seyid Berat Ergün
-role: Computer Engineering Student
-university: TED University
-location: Ankara, Türkiye
-focus: AI · Security · Software
-```
-
-</td><td width="52%" valign="top">
-
-### `ENGINEERING_FOCUS`
+**Seyid Berat Ergün** · Computer Engineering Student at **TED University** · Ankara, Türkiye.
 
 I build cross-platform applications and small, inspectable AI and security tools.
 
@@ -38,8 +31,8 @@ I build cross-platform applications and small, inspectable AI and security tools
 - **Software:** mobile applications, APIs and local-first products.
 - **Quality:** regression tests, device QA and clear documentation.
 
-</td></tr>
-</table>
+</details>
+
 
 <img src="./assets/active-workstreams.gif" width="100%" alt="Current work: RadioTEDU mobile development and QA; berXfit released local-first product; PerDrobe capstone in development" />
 
